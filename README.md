@@ -53,7 +53,7 @@ These define **how the system performs**. Examples for the booking system:
 
 Use Case Diagrams visually represent **actors and system interactions**. They help identify who interacts with the system and the main functionalities.  
 
-![Booking System Use Case Diagram](https://drive.google.com/uc?export=download&id=1m3dTC77YG9RgAXkmAxLh290XTfF31faW)
+![alx-booking-uc.png](https://drive.google.com/uc?export=download&id=1m3dTC77YG9RgAXkmAxLh290XTfF31faW)
 
 **Actors:** Users, Admins  
 **Use Cases:** Search Listings, Book Room, Make Payment, Manage Listings  
